@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.historiasconhistoria.es/xmlrpc.php">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>HISTORIAS CON HISTORIA &#8211; Otro sitio realizado con WordPress</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="HISTORIAS CON HISTORIA &raquo; Feed" href="http://www.historiasconhistoria.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HISTORIAS CON HISTORIA &raquo; Feed de los comentarios" href="http://www.historiasconhistoria.es/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.historiasconhistoria.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.historiasconhistoria.es/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='SourceSansPro-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400i%2C700%2C700i&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.historiasconhistoria.es/wp-content/themes/sixty/assets/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sixty-main-style-css'  href='http://www.historiasconhistoria.es/wp-content/themes/sixty/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3Aregular&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-sixty_customize-css'  href='http://www.historiasconhistoria.es/wp-content/themes/sixty/includes/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<style id='kirki-styles-sixty_customize-inline-css' type='text/css'>
+#header_part_default h1{color:#1a1a1a;}#header_part_default h2{color:#f96c5a;}#header_part_default{background-color:#fff;}.header_part h1, .header_part h2{font-family:"Source Sans Pro", Helvetica, Arial, sans-serif;}.default-navigation a{font-family:"Source Sans Pro", Helvetica, Arial, sans-serif;}.default-navigation .nav-pills li>a{color:#fff;}.default-navigation, .default-navigation .nav li ul, .widget #wp-calendar #today{background-color:#7a4d77;}.header_wooc_profile_wrapper .header_wooc_profile:before{border-bottom-color:#7a4d77;}.header_wooc_profile_wrapper .header_wooc_profile svg{fill:#7a4d77;}.default-navigation .nav>li.current-menu-item{background-color:rgba(86, 55, 84, 1);}.default-navigation .nav>li.current-menu-item>a{color:#fff;}.post, .widget, #comments, .comment-respond,.product-single-wrapper div.product{background-color:#fff;}body, html, .widget_search .widget_title{background-color:#ebebeb;}.formatting a, .widget a, .post .category, .post-meta a, .post .entry-title a:hover, .posts-navigation .nav-links>div a, .formatting ul li:before, .formatting code, .formatting kbd, .logged-in-as a, .single_navigation a,.formatting ol li:before{color:#f96c5a;}.single_navigation svg, .posts-navigation .nav-links>div a svg{fill:#f96c5a;}.formatting blockquote, .post.sticky{border-color:#f96c5a;}.formatting ins,.widget.widget_tag_cloud a{background-color:#f96c5a;}.formatting h1, .formatting h2, .formatting h3, .formatting h4, .formatting h5, .formatting h6,.post .entry-title a, .widget .widget_title, .post .entry-title,#reply-title, .archive_title h1{color:#1a1a1a;}.formatting, .widget, .formatting ul, .formatting ol{color:#595959;}.comment-meta-item, .post-meta,.widget .post-date, .widget .rss-date, .post .tags{color:#333;}.post-meta svg{fill:#333;}.formatting a, .formatting, .widget, .excerpt, #main_footer, .post_content .category, .read_more, .nav-links a, .single_navigation a, .formatting button, input, textarea{font-family:"Source Sans Pro", Helvetica, Arial, sans-serif;}.comment-meta .meta_right, .comment-meta .meta_right a, .comment-edit-link, .post-meta, .post-meta a, label, .logged-in-as{font-family:"Source Sans Pro", Helvetica, Arial, sans-serif;}.formatting table th, .entry-title a, .entry-title, .widget .widget_title, #reply-title, #comments > h2, .formatting h1, .formatting h2, .formatting h3, .formatting h4,.formatting h5, .formatting h6, .archive_title h1{font-family:"Source Sans Pro", Helvetica, Arial, sans-serif;}
+					.buttons_solid .formatting input[type="submit"],
+					.buttons_solid .formatting button,
+					.buttons_solid .comment-respond input[type="submit"],
+					.buttons_solid .post .read_more,
+
+					.buttons_border .formatting input[type="submit"],
+					.buttons_border .formatting button,
+					.buttons_border .comment-respond input[type="submit"],
+					.buttons_border .post .read_more{color:#fff;}
+	.buttons_solid .read_more, 								.buttons_border .read_more:hover,
+	.buttons_solid .formatting input[type="submit"], 		.buttons_border .formatting input[type="submit"]:hover,
+	.buttons_solid .formatting button, 						.buttons_border .formatting button:hover,
+	.buttons_solid .comment-respond input[type="submit"], 	.buttons_border .comment-respond input[type="submit"]:hover
+								{background-color:#f96c5a;}
+	.buttons_solid .read_more:hover, 							.buttons_border .read_more,
+	.buttons_solid .formatting input[type="submit"]:hover, 		.buttons_border .formatting input[type="submit"],
+	.buttons_solid .formatting button:hover, 					.buttons_border .formatting button,
+	.buttons_solid .comment-respond input[type="submit"]:hover, .buttons_border .comment-respond input[type="submit"]
+								{border-color:#f96c5a;}
+	.buttons_solid .read_more:hover,
+	.buttons_solid .formatting input[type="submit"]:hover,
+	.buttons_solid .formatting button:hover,
+	.buttons_solid .comment-respond input[type="submit"]:hover
+	{color:#f96c5a;}.formatting input[type="submit"],
+					.formatting button,
+					.comment-respond  input[type="submit"],
+					.post .read_more{text-transform:capitalize;}#main_footer{background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;}#main_footer, #main_footer .site-title, #main_footer a{color:#595959;}
+</style>
+<script type='text/javascript' src='http://www.historiasconhistoria.es/wp-content/themes/sixty/assets/js/dest/scripts.min.js?ver=1.0.10'></script>
+<link rel='https://api.w.org/' href='http://www.historiasconhistoria.es/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.historiasconhistoria.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.historiasconhistoria.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+</head>
+
+<body class="home blog layout-boxed buttons_solid">
+
+<div class="header_wrapper"><header id="header_part_default" class="header_part"><div class="container large">
+	<div class="row">
+		<div class="col-md-12">
+			<a href="http://www.historiasconhistoria.es" title="HISTORIAS CON HISTORIA" class="header-logo-default" itemprop="url">
+			<h1>HISTORIAS CON HISTORIA</h1>
+			<h2>Otro sitio realizado con WordPress</h2>
+		</a><!-- /#logo  -->		</div><!-- / .col-md-12 -->
+	</div><!-- / .row -->
+</div><!-- / .container -->
+
+</header></div>
+
+<div class="container" id="main_container">
+	<div class="row">
+				<div class="col-md-8 col-sm-12 col-xs-12">
+		
+<div id="post-7" class="post post-7 type-post status-publish format-standard hentry category-sin-categoria">
+	
+	<div class="post_content">
+		<h2 class="entry-title"><a href="http://www.historiasconhistoria.es/6/daniel-buscando-ordenadores-gaming-baratos-para-el-black-friday/" rel="bookmark">Daniel buscando ordenadores gaming baratos para el Black Friday</a></h2><div class="formatting excerpt"><p><img class="alignright size-thumbnail wp-image-7" src="http://www.historiasconhistoria.es/wp-content/uploads/ordenadores-gaming-baratos-121x132.jpg" alt="ordenadores gaming baratos" width="121" height="132" srcset="http://www.historiasconhistoria.es/wp-content/uploads/ordenadores-gaming-baratos-121x132.jpg 121w, http://www.historiasconhistoria.es/wp-content/uploads/ordenadores-gaming-baratos.jpg 421w" sizes="(max-width: 121px) 100vw, 121px"> Daniel es un chico madrileño de treinta y dos años que lleva cinco años gestionando la empresa de sus padres que ofrece servicios de jardinería a particulares y a comunidades de vecinos y la verdad es que gracias a sus campañas de publicidad online ha logrado hacer que la empresa familiar multiplique por tres sus clientes haciendo que la facturación también lo haga y gracias a eso y al sueldo de recepcionista de su novia Inma, hacen que esta pareja viva con todo tipo de lujos en un dúplex con jacuzzi y como esta tarde Daniel no tiene que trabajar y necesita buscar ordenadores gaming baratos para comprarse uno el día del Black Friday, se va a sentar en el sofá con el portátil encima de las piernas y se va a meter en la web <a href="https://www.laredinnova.com/ordenadores-gaming/">www.laredinnova.com</a>, una tienda de ordenadores gaming baratos donde ya están anunciando las ofertas que harán el Black Friday así que después de guardar en favoritos el ordenador que se comprará, Daniel va a meterse en el diario As donde hoy publican que el Real Madrid habría contactado con el entorno de Jose Maria Gimenez para que sepa que el club blanco tiene interés en incorporarlo a su plantilla a final de esta temporada ya que el jugador no se siente importante en el Atlético de Madrid y es posible que no renueve su contrato que termina con el club colchonero a final de temporada.</p>
+</div><!-- / .formatting --><a href="http://www.historiasconhistoria.es/6/daniel-buscando-ordenadores-gaming-baratos-para-el-black-friday/" class="read_more">Continue reading</a>		
+	</div><!-- / .post_content -->
+
+	</div>		</div><!-- / .col-md-8 -->
+		
+				<div class="col-md-4 col-sm-12 col-sx-12" id="sidebar">
+					<div class="widget widget_recent_entries" id="recent-posts-2">		<div class="widget_title">Entradas recientes</div>		<ul>
+											<li>
+					<a href="http://www.historiasconhistoria.es/6/daniel-buscando-ordenadores-gaming-baratos-para-el-black-friday/">Daniel buscando ordenadores gaming baratos para el Black Friday</a>
+									</li>
+					</ul>
+		</div>		</div><!-- / .col-md-4 -->
+		</div><!-- / .row -->
+</div><!-- / .container -->
+
+<footer id="main_footer">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="site-title">&copy; HISTORIAS CON HISTORIA</div>
+		</div><!-- / .row -->
+	</div><!-- / .container-fluid -->
+</footer>
+
+<script type='text/javascript' src='http://www.historiasconhistoria.es/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+
+</body>
+</html>
